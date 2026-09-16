@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**vincentbernardprogit/vincentbernardprogit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi! This is Vincent Bernard. Just call me Vincent.
+##
+## I'm a game developer. But I started developing games with JavaScript, for the web development was my background.
+##
+## Two fields in the game development I have been trying: designing and coding. Coding is the one that take the most.
+##
+## Most of the projects I publish are on GitHub.
+##
+## Skills & Tools: Unity Engine, front-end stack (HTML, CSS, JavaScript), Git, Adobe Photoshop
+##
+## 📧 vincent.bernard.corp@gmail.com
+## 🌐 https://vincentbernardprogit.github.io/game-developer-portfolio/ (Here you can download my resume)
+## [![LinkedIn](https://www.linkedin.com/in/vincentbernardlin)](https://linkedin.com)
+## [![GitHub](https://github.com/vincentbernardprogit)](https://github.com)
